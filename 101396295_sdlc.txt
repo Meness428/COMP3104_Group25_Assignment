@@ -1,0 +1,1 @@
+DevOps is important in the Software Development Life Cycle as it allows for a much more efficient and faster software delivery method.
