@@ -1,0 +1,2 @@
+DevOps is a course offered in the Computer Programming and Analysis program at George Brown College.
+This course teaches students  development and operations (Dev & Ops) to improve collaboration, efficiency, and delivery times. 
