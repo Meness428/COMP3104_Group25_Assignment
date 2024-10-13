@@ -1,1 +1,7 @@
 Importance of learning DevOps in the software development cycle.
+Learning DevOps in the software development life cycle enables a quicker and more efficient software delivery.
+Planning where developers work with stakeholders to create a proper project plan enabling the developers to move 
+on to write the code based off the requirements and specifications determined. Having DevOps teams do version control 
+throughout allows best practices code with the quality maintained. Through the building process DevOps teams use CI/CDs 
+to have builds that can be reproduced. They further go through the software development life cycle using softwares that 
+enables them to create a well put together product that is easy to maintain and use.
