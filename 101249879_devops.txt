@@ -1,1 +1,6 @@
 Information about the COMP3104 DevOps course.
+
+The course DevOps with the course code COMP3104 is about the procedures, protocols and best practices of a DevOps engineer. 
+This course dives into the processes developer operators would use in the workplace enabling students to gain experience 
+through the hands on lab exercises following the main responsibiities of DevOps. For example, usage of GitHub. 
+Knowing how to use GitHub is important for developers for collaboration.
