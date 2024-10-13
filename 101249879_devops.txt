@@ -1,7 +1,7 @@
-Information about the COMP3104 DevOps course.
-The course DevOps with the course code COMP3104 is about the methods, conventions and prime 
-implementations of a DevOps engineer. This course dives into the processes developer operators would 
-use in the workplace permitting students to gain experience through the hands on lab exercises 
-following the main responsibiities of DevOps. For example, usage of GitHub which is used for 
-version control and gaining an understanding of how the sdlc is effective with DevOps 
-fundamentals. Knowing how to use GitHub is important for developers for collaboration.
+The course DevOps, with the course code COMP3104, is about a DevOps engineer's methods, 
+conventions, and prime implementations. This course dives into the processes developer 
+operators would use in the workplace, permitting students to gain experience through 
+the hands-on lab exercises following the primary obligations of DevOps. For example, 
+I learned that GitHub is used for version control and understood how the SDLC is 
+effective with DevOps fundamentals. Knowing how to use GitHub is important for 
+developers' collaboration.

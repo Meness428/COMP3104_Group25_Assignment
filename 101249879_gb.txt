@@ -1,8 +1,7 @@
-Information about George Brown College.
-George Brown College is a public college, located in Toronto, that offers a variety of Certificate, 
+George Brown College is a public college located in Toronto that offers a variety of Certificate, 
 Diploma, Advanced Diploma, Bachelor and Post Graduate programs. Allowing students to choose a field 
-they prefer and can start their post secondary education or further it by specializing in their field. 
+they prefer and can start their post-secondary education or further it by specializing in their field. 
 The program to highlight is the Computer Programming and Analysis Advanced Diploma program. This program 
-offers students the option to complete their studies fully online or hybrid (online and on campus). The 
-online option is only available for Domestic students. This exhibits the flexibility some of George Brown 
-College's programs offer enabling students outside of the GTA to complete their studies from home.
+allows students to complete their studies entirely online or hybrid (online and on campus). The 
+online option is only available for Domestic students, exhibiting the flexibility some of George Brown 
+College programs enable students outside the GTA to complete their studies from home.
