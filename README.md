@@ -6,7 +6,7 @@
 - **Member 4:** Nazneen Nitu (101444170) - [GitHub](https://github.com/nazneennitu)
 - **Member 5:** Lizette Johana Romero (101445658) - [GitHub](https://github.com/Johana101445658)
 ## Project Description
-This repository hosts the group assignment (Assignment 1) for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies
+This repository hosts the group assignment (Assignment 1) for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
 ## Setup Instructions
 1. Clone the repository.
 2. Switch to your branch using `git checkout STUDENTID-Name`.
