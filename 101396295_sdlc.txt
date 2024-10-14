@@ -1,5 +1,0 @@
-DevOps is crutial to Software Development Life Cycle (SLDC) as it allows for a much more efficient and faster software delivery method.
-It allows for better teamwork by making it easier to collaborate with other teammates and also improves communication and reduces delays by speeding up the entire process.
-DevOps is also streamlines workflows by minimizing downtime which can cut costs while improving overall productivity.
-DevOps encourages ongoing monitoring and feedback, helping teams spot issues in real time. 
-This means problems can be fixed faster, leading to better quality software over time.
