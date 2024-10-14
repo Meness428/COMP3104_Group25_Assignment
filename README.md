@@ -16,4 +16,4 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
 Each member is to also merge changes made in the main to their branches updating their local repository via Fetch and Merge.
-Managing conflicts that come up during the merge.
+Managing conflicts that come up during the merge..
