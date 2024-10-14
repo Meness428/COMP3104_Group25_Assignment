@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 101444170-Nazneen
 COMP3104_Group1_Assignment
 Group Members
@@ -23,6 +24,8 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 Branching Strategy
 Each member has their own branch named STUDENTID-Name. All changes are merged into the main branch via Pull Requests. Each member is to also merge changes made in the main to their branches updating their local repository via Fetch and Merge. Managing conflicts that come up during the merge.
 =======
+=======
+>>>>>>> 0694c414173f65f67e83363047ed36804642f0d6
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Meness Prethipan (101249816) - [GitHub](https://github.com/Meness428)
@@ -42,4 +45,7 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
 Each member is to also merge changes made in the main to their branches updating their local repository via Fetch and Merge.
 Managing conflicts that come up during the merge..
+<<<<<<< HEAD
 >>>>>>> main
+=======
+>>>>>>> 0694c414173f65f67e83363047ed36804642f0d6
