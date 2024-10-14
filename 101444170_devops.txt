@@ -1,6 +1,0 @@
-COMP 3104 – DevOps is a core course offered in the Computer Programming and Analysis program at George Brown College.
- This course introduces students to the principles and practices of DevOps, a modern approach to software development
-  that integrates development (Dev) and operations (Ops) to improve collaboration, efficiency, and delivery times.
-   The curriculum covers key concepts such as version control with Git, continuous integration/continuous deployment (CI/CD),
-    automation, and cloud computing. Students also engage in hands-on projects using tools like GitHub, Jenkins, Docker,
-     and Kubernetes, learning to create automated pipelines and deploy applications in cloud environments.
